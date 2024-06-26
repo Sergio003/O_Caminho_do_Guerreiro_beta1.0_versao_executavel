@@ -1,4 +1,4 @@
-![o caminho do guerreiro  exe gif](https://github.com/jogosdesergioerafael/O_Caminho_do_Guerreiro_beta1.1_versao_executavel/assets/150600124/2282f713-d0d7-49fc-be42-9d6ea3a52d22)
+![o caminho do guerreiro exe](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_executavel/assets/171747060/fe147800-8127-4ebe-a5cb-cd68b181d0eb)
 
 # Instruções para jogar em formato .exe
 
@@ -13,3 +13,4 @@ Aperte o botão esquerdo do mouse para pausar a escrita, e o botão direito do m
 Caso queira fechar o jogo de maneira mais rápida, aperte o atalho do seu teclado alt+f4.
 
 ## [Download](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_executavel/archive/refs/heads/main.zip)
+
