@@ -1,4 +1,4 @@
-![o caminho do guerreiro exe](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_executavel/assets/171747060/fe147800-8127-4ebe-a5cb-cd68b181d0eb)
+![o caminho do guerreiro exe](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_executavel/assets/171747060/53be490d-53f3-420f-94ef-40b0cfe7dc62)
 
 # Instruções para jogar em formato .exe
 
