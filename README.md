@@ -1,6 +1,6 @@
 # 🎮🔥 Jogo de texto O Caminho Do Guerreiro 🔥🎮
-> Trabalho da faculdade no 1º período valendo 3,0 pontos, nesse trabalho foi solicitado a criação de um jogo de texto<br>
-programado em Python utilizando hardcoded, com muito esforço e dedicação, consegui obter a nota máxima.
+> Trabalho da faculdade no 1º período valendo 3,0 pontos, nesse trabalho foi solicitado a criação de um jogo de texto
+<br>programado em Python utilizando hardcoded, com muito esforço e dedicação, consegui obter a nota máxima.
 
 ![o caminho do guerreiro exe](https://github.com/Sergio003/O_Caminho_do_Guerreiro_beta1.0_versao_executavel/assets/171747060/53be490d-53f3-420f-94ef-40b0cfe7dc62)
 
